@@ -2,23 +2,25 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
 **About me**
 
 - PROFESSOR
 UDEMY
   👑 Cursos Produzidos
 
-✴ Crie MMORGS definitivo unity 2023 - 86h
-✴ Construção de cenários com unity 3D + Iluminação Profissional - 1h
-✴ Crie games Unity 3D + 2D + C# - 6h
-✴ Iluminação Profissional Unity 3D 2022 - 1h
-✴ Godot 2023: Contrua games do absoluto zero com godot - 8h
-✴ Construa Um Game Plataforma Unity 3D - 2h
-✴ Game Plataforma Profundo Com Unity 3d + C# - 1h
-✴ Masterclasse unity roguelike 2D Mobile + Desktop, Rpg de ação 2D Mobile + Desktop - 27h
-✴ RPG de Ação 2D Desktop + Mobile com Unity + C# - 41 
+<b>👑 Cursos Produzidos </b><br><br>
+                ✴ Crie MMORGS definitivo unity 2023 - 86h<br>
+                ✴ Construção de cenários com unity 3D + Iluminação Profissional - 1h <br>
+                ✴ Crie games Unity 3D + 2D + C# - 6h <br>
+                ✴ Iluminação Profissional Unity 3D 2022 - 1h <br>
+                ✴ Godot 2023: Contrua games do absoluto zero com godot - 8h <br>
+                ✴ Construa Um Game Plataforma Unity 3D - 2h <br>
+                ✴ Game Plataforma Profundo Com Unity 3d + C# - 1h <br>
+                ✴ Masterclasse unity roguelike 2D Mobile + Desktop, Rpg de ação 2D Mobile + Desktop - 27h <br>
+                ✴ RPG de Ação 2D Desktop + Mobile com Unity + C# - 41 <br>
+  
+
+                         </p> 
 
 -   ESCRITOR
   👑 Livros Escritos e Locais Disponíveis
