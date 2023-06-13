@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Lars. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
@@ -27,19 +27,19 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/larslouch/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larslouch&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/larslouch/larslouch.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larslouch&repo=larslouch.github.io&theme=buefy" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/larslouch">
+  <img align="right" alt="Lars Louch | Twitter" width="21px" src="https://raw.githubusercontent.com/larslouch/larslouch/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://codesandbox.io/u/larslouch">
+  <img align="right" alt="Lars Louch | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/larslouch/larslouch/master/assets/codesandbox.svg" />
 </a>
