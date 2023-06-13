@@ -64,8 +64,8 @@ UDEMY
               🌓Guerreiro Celestial: Guerra Entre Reinos🌘
               💠https://shre.ink/guerreironowikilivros💠
 
-              ✨Escritor a mais de 7 anos por amor e paixão a escrita<b>
-              ✨Livros publicados na amazon e no watpad desde a infancia<br><b>
+              ✨Escritor a mais de 7 anos por amor e paixão a escrita
+              ✨Livros publicados na amazon e no watpad desde a infancia
 
 - 💬 Ask me about anything [here](https://github.com/larslouch/larslouch/issues)
 
