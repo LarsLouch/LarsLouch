@@ -20,14 +20,14 @@ UDEMY
   
 
 -   ESCRITOR
-<b>👑 Livros Escritos e Locais Disponíveis</b><br><br>         
-              <b>🔲Amazon</b><br>
+<b>👑 Livros Escritos e Locais Disponíveis</b>        
+              <b>🔲Amazon</b>
 
               🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒<br>💠https://shre.ink/nascentedeestrelasamazon💠<br><br>
               🌒Quando a vida se torna divertida🌓<br> 💠https://shre.ink/quandoavidaamazon💠<br><br>
               🌓Guerreiro Celestial: Guerra Entre Reinos🌔<br>💠https://shre.ink/guerreirocelesltialamazon💠<br><br>
 
-            <b>🔲Livraria Publica</b><br>
+            <b>🔲Livraria Publica</b>
 
               🌔Guerreiro Celestial: Guerra Entre Reinos🌕<br> 💠https://shre.ink/oguerreironalivraria💠<br><br>
               🌕NASCENTE DE ESTRELAS: O Marco do Fim🌖<br> 💠https://shre.ink/estrelasnalivraria💠<br><br>
