@@ -24,7 +24,7 @@ UDEMY
 <b>👑 Livros Escritos e Locais Disponíveis</b><br><br>      
       
 
-              🔲Amazon
+            🔲Amazon
               🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒
               💠https://shre.ink/nascentedeestrelasamazon💠
               🌒Quando a vida se torna divertida🌓
