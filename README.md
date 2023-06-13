@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://larslouch.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
@@ -24,7 +24,8 @@ UDEMY
 <b>👑 Livros Escritos e Locais Disponíveis</b><br><br>      
               🔲Amazon<br>
 
-              🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒<br>💠https://shre.ink/nascentedeestrelasamazon💠<b>
+              🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒
+              <br>💠https://shre.ink/nascentedeestrelasamazon💠<b>
               🌒Quando a vida se torna divertida🌓<br> 💠https://shre.ink/quandoavidaamazon💠<b>
               🌓Guerreiro Celestial: Guerra Entre Reinos🌔<br>💠https://shre.ink/guerreirocelesltialamazon💠<b>
 
