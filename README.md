@@ -21,39 +21,39 @@ UDEMY
 
 -   ESCRITOR
 <b>👑 Livros Escritos e Locais Disponíveis</b>        
-              <b>🔲Amazon</b>
+              🔲Amazon</b><br><br>
 
-              🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒<br>💠https://shre.ink/nascentedeestrelasamazon💠<br><br>
-              🌒Quando a vida se torna divertida🌓<br> 💠https://shre.ink/quandoavidaamazon💠<br><br>
-              🌓Guerreiro Celestial: Guerra Entre Reinos🌔<br>💠https://shre.ink/guerreirocelesltialamazon💠<br><br>
+              🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒<br>💠https://shre.ink/nascentedeestrelasamazon💠<b>
+              🌒Quando a vida se torna divertida🌓<br> 💠https://shre.ink/quandoavidaamazon💠<b>
+              🌓Guerreiro Celestial: Guerra Entre Reinos🌔<br>💠https://shre.ink/guerreirocelesltialamazon💠<b>
 
-            <b>🔲Livraria Publica</b>
+            🔲Livraria Publica</b>
 
               🌔Guerreiro Celestial: Guerra Entre Reinos🌕<br> 💠https://shre.ink/oguerreironalivraria💠<br><br>
               🌕NASCENTE DE ESTRELAS: O Marco do Fim🌖<br> 💠https://shre.ink/estrelasnalivraria💠<br><br>
 
-            <b>🔲Saraiva</b><br>
+            🔲Saraiva</b>
 
               🌖Guerreiro Celestial: Guerra Entre Reinos🌗<br> 💠https://shre.ink/guerreironasaraiva💠<br><br>
 
-            <b>🔲TopLeituras</b><br>
+            🔲TopLeituras</b>
 
               🌗Guerreiro Celestial: Guerra Entre Reinos🌘<br> 💠https://shre.ink/guerreironotopleituras💠<br><br>
               
-            <b>🔲99ebooks</b><br>
+            🔲99ebooks</b><br>
 
               🌘Guerreiro Celestial: Guerra Entre Reinos🌒<br> 💠https://shre.ink/guerreironoebooks💠<br><br>
               
-            <b>🔲GoodReads</b><br>
+            🔲GoodReads</b><br>
 
               🌒Guerreiro Celestial: Guerra Entre Reinos🌓<br> 💠https://shre.ink/guerreironogoodreads💠<br><br>
 
-            <b>🔲WikiLivros</b><br>
+            🔲WikiLivros</b><b>
 
               🌓Guerreiro Celestial: Guerra Entre Reinos🌘<br> 💠https://shre.ink/guerreironowikilivros💠<br><br>
 
-              ✨Escritor a mais de 7 anos por amor e paixão a escrita<br>
-              ✨Livros publicados na amazon e no watpad desde a infancia<br><br>
+              ✨Escritor a mais de 7 anos por amor e paixão a escrita<b>
+              ✨Livros publicados na amazon e no watpad desde a infancia<br><b>
 
 - 💬 Ask me about anything [here](https://github.com/larslouch/larslouch/issues)
 
