@@ -32,30 +32,37 @@ UDEMY
               🌓Guerreiro Celestial: Guerra Entre Reinos🌔
               💠https://shre.ink/guerreirocelesltialamazon💠
 
-            🔲Livraria Publica</b>
+            🔲Livraria Publica
 
-              🌔Guerreiro Celestial: Guerra Entre Reinos🌕<br> 💠https://shre.ink/oguerreironalivraria💠<br><br>
-              🌕NASCENTE DE ESTRELAS: O Marco do Fim🌖<br> 💠https://shre.ink/estrelasnalivraria💠<br><br>
+              🌔Guerreiro Celestial: Guerra Entre Reinos🌕
+              💠https://shre.ink/oguerreironalivraria💠
+              🌕NASCENTE DE ESTRELAS: O Marco do Fim🌖
+              💠https://shre.ink/estrelasnalivraria💠
 
-            🔲Saraiva</b>
+            🔲Saraiva
 
-              🌖Guerreiro Celestial: Guerra Entre Reinos🌗<br> 💠https://shre.ink/guerreironasaraiva💠<br><br>
+              🌖Guerreiro Celestial: Guerra Entre Reinos🌗
+              💠https://shre.ink/guerreironasaraiva💠
 
-            🔲TopLeituras</b>
+            🔲TopLeituras
 
-              🌗Guerreiro Celestial: Guerra Entre Reinos🌘<br> 💠https://shre.ink/guerreironotopleituras💠<br><br>
+              🌗Guerreiro Celestial: Guerra Entre Reinos🌘
+              💠https://shre.ink/guerreironotopleituras💠
               
-            🔲99ebooks</b><br>
+            🔲99ebooks
 
-              🌘Guerreiro Celestial: Guerra Entre Reinos🌒<br> 💠https://shre.ink/guerreironoebooks💠<br><br>
+              🌘Guerreiro Celestial: Guerra Entre Reinos🌒
+              💠https://shre.ink/guerreironoebooks💠
               
-            🔲GoodReads</b><br>
+            🔲GoodReads
 
-              🌒Guerreiro Celestial: Guerra Entre Reinos🌓<br> 💠https://shre.ink/guerreironogoodreads💠<br><br>
+              🌒Guerreiro Celestial: Guerra Entre Reinos🌓
+              💠https://shre.ink/guerreironogoodreads💠
 
-            🔲WikiLivros</b><b>
+            🔲WikiLivros
 
-              🌓Guerreiro Celestial: Guerra Entre Reinos🌘<br> 💠https://shre.ink/guerreironowikilivros💠<br><br>
+              🌓Guerreiro Celestial: Guerra Entre Reinos🌘
+              💠https://shre.ink/guerreironowikilivros💠
 
               ✨Escritor a mais de 7 anos por amor e paixão a escrita<b>
               ✨Livros publicados na amazon e no watpad desde a infancia<br><b>
