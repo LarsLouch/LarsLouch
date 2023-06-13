@@ -6,11 +6,62 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at
+- PROFESSOR
+UDEMY
+  👑 Cursos Produzidos
 
-- 📈 Built 
+✴ Crie MMORGS definitivo unity 2023 - 86h
+✴ Construção de cenários com unity 3D + Iluminação Profissional - 1h
+✴ Crie games Unity 3D + 2D + C# - 6h
+✴ Iluminação Profissional Unity 3D 2022 - 1h
+✴ Godot 2023: Contrua games do absoluto zero com godot - 8h
+✴ Construa Um Game Plataforma Unity 3D - 2h
+✴ Game Plataforma Profundo Com Unity 3d + C# - 1h
+✴ Masterclasse unity roguelike 2D Mobile + Desktop, Rpg de ação 2D Mobile + Desktop - 27h
+✴ RPG de Ação 2D Desktop + Mobile com Unity + C# - 41 
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+-   ESCRITOR
+  👑 Livros Escritos e Locais Disponíveis
+
+🔲Amazon
+🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒
+💠https://shre.ink/nascentedeestrelasamazon💠
+
+🌒Quando a vida se torna divertida🌓
+💠https://shre.ink/quandoavidaamazon💠
+
+🌓Guerreiro Celestial: Guerra Entre Reinos🌔
+💠https://shre.ink/guerreirocelesltialamazon💠
+
+🔲Livraria Publica
+🌔Guerreiro Celestial: Guerra Entre Reinos🌕
+💠https://shre.ink/oguerreironalivraria💠
+
+🌕NASCENTE DE ESTRELAS: O Marco do Fim🌖
+💠https://shre.ink/estrelasnalivraria💠
+
+🔲Saraiva
+🌖Guerreiro Celestial: Guerra Entre Reinos🌗
+💠https://shre.ink/guerreironasaraiva💠
+
+🔲TopLeituras
+🌗Guerreiro Celestial: Guerra Entre Reinos🌘
+💠https://shre.ink/guerreironotopleituras💠
+
+🔲99ebooks
+🌘Guerreiro Celestial: Guerra Entre Reinos🌒
+💠https://shre.ink/guerreironoebooks💠
+
+🔲GoodReads
+🌒Guerreiro Celestial: Guerra Entre Reinos🌓
+💠https://shre.ink/guerreironogoodreads💠
+
+🔲WikiLivros
+🌓Guerreiro Celestial: Guerra Entre Reinos🌘
+💠https://shre.ink/guerreironowikilivros💠
+
+✨Escritor a mais de 7 anos por amor e paixão a escrita
+✨Livros publicados na amazon e no watpad desde a infancia
 
 - 💬 Ask me about anything [here](https://github.com/larslouch/larslouch/issues)
 
