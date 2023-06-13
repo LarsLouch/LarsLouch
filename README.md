@@ -6,7 +6,6 @@
 
 - PROFESSOR
 UDEMY
-  👑 Cursos Produzidos
 
 <b>👑 Cursos Produzidos </b><br><br>
                 ✴ Crie MMORGS definitivo unity 2023 - 86h<br>
@@ -20,50 +19,41 @@ UDEMY
                 ✴ RPG de Ação 2D Desktop + Mobile com Unity + C# - 41 <br>
   
 
-                         </p> 
-
 -   ESCRITOR
-  👑 Livros Escritos e Locais Disponíveis
+<b>👑 Livros Escritos e Locais Disponíveis</b><br><br>         
+              <b>🔲Amazon</b><br>
 
-🔲Amazon
-🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒
-💠https://shre.ink/nascentedeestrelasamazon💠
+              🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒<br>💠https://shre.ink/nascentedeestrelasamazon💠<br><br>
+              🌒Quando a vida se torna divertida🌓<br> 💠https://shre.ink/quandoavidaamazon💠<br><br>
+              🌓Guerreiro Celestial: Guerra Entre Reinos🌔<br>💠https://shre.ink/guerreirocelesltialamazon💠<br><br>
 
-🌒Quando a vida se torna divertida🌓
-💠https://shre.ink/quandoavidaamazon💠
+            <b>🔲Livraria Publica</b><br>
 
-🌓Guerreiro Celestial: Guerra Entre Reinos🌔
-💠https://shre.ink/guerreirocelesltialamazon💠
+              🌔Guerreiro Celestial: Guerra Entre Reinos🌕<br> 💠https://shre.ink/oguerreironalivraria💠<br><br>
+              🌕NASCENTE DE ESTRELAS: O Marco do Fim🌖<br> 💠https://shre.ink/estrelasnalivraria💠<br><br>
 
-🔲Livraria Publica
-🌔Guerreiro Celestial: Guerra Entre Reinos🌕
-💠https://shre.ink/oguerreironalivraria💠
+            <b>🔲Saraiva</b><br>
 
-🌕NASCENTE DE ESTRELAS: O Marco do Fim🌖
-💠https://shre.ink/estrelasnalivraria💠
+              🌖Guerreiro Celestial: Guerra Entre Reinos🌗<br> 💠https://shre.ink/guerreironasaraiva💠<br><br>
 
-🔲Saraiva
-🌖Guerreiro Celestial: Guerra Entre Reinos🌗
-💠https://shre.ink/guerreironasaraiva💠
+            <b>🔲TopLeituras</b><br>
 
-🔲TopLeituras
-🌗Guerreiro Celestial: Guerra Entre Reinos🌘
-💠https://shre.ink/guerreironotopleituras💠
+              🌗Guerreiro Celestial: Guerra Entre Reinos🌘<br> 💠https://shre.ink/guerreironotopleituras💠<br><br>
+              
+            <b>🔲99ebooks</b><br>
 
-🔲99ebooks
-🌘Guerreiro Celestial: Guerra Entre Reinos🌒
-💠https://shre.ink/guerreironoebooks💠
+              🌘Guerreiro Celestial: Guerra Entre Reinos🌒<br> 💠https://shre.ink/guerreironoebooks💠<br><br>
+              
+            <b>🔲GoodReads</b><br>
 
-🔲GoodReads
-🌒Guerreiro Celestial: Guerra Entre Reinos🌓
-💠https://shre.ink/guerreironogoodreads💠
+              🌒Guerreiro Celestial: Guerra Entre Reinos🌓<br> 💠https://shre.ink/guerreironogoodreads💠<br><br>
 
-🔲WikiLivros
-🌓Guerreiro Celestial: Guerra Entre Reinos🌘
-💠https://shre.ink/guerreironowikilivros💠
+            <b>🔲WikiLivros</b><br>
 
-✨Escritor a mais de 7 anos por amor e paixão a escrita
-✨Livros publicados na amazon e no watpad desde a infancia
+              🌓Guerreiro Celestial: Guerra Entre Reinos🌘<br> 💠https://shre.ink/guerreironowikilivros💠<br><br>
+
+              ✨Escritor a mais de 7 anos por amor e paixão a escrita<br>
+              ✨Livros publicados na amazon e no watpad desde a infancia<br><br>
 
 - 💬 Ask me about anything [here](https://github.com/larslouch/larslouch/issues)
 
