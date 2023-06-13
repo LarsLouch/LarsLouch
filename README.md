@@ -20,8 +20,9 @@ UDEMY
   
 
 -   ESCRITOR
-<b>👑 Livros Escritos e Locais Disponíveis</b>        
-              🔲Amazon</b><br><br>
+
+<b>👑 Livros Escritos e Locais Disponíveis</b><br><br>      
+              🔲Amazon<br>
 
               🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒<br>💠https://shre.ink/nascentedeestrelasamazon💠<b>
               🌒Quando a vida se torna divertida🌓<br> 💠https://shre.ink/quandoavidaamazon💠<b>
