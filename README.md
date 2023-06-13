@@ -24,10 +24,13 @@ UDEMY
 <b>👑 Livros Escritos e Locais Disponíveis</b><br><br>      
       
 
+              🔲Amazon
               🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒
-              <br>💠https://shre.ink/nascentedeestrelasamazon💠<b>
-              🌒Quando a vida se torna divertida🌓<br> 💠https://shre.ink/quandoavidaamazon💠<b>
-              🌓Guerreiro Celestial: Guerra Entre Reinos🌔<br>💠https://shre.ink/guerreirocelesltialamazon💠<b>
+              💠https://shre.ink/nascentedeestrelasamazon💠
+              🌒Quando a vida se torna divertida🌓
+              💠https://shre.ink/quandoavidaamazon💠
+              🌓Guerreiro Celestial: Guerra Entre Reinos🌔
+              💠https://shre.ink/guerreirocelesltialamazon💠
 
             🔲Livraria Publica</b>
 
