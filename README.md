@@ -37,8 +37,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 <br />
 
-<a href="https://twitter.com/larslouch">
-  <img align="right" alt="Lars Louch | Twitter" width="21px" src="https://raw.githubusercontent.com/larslouch/larslouch/master/assets/twitter.svg" />
+
+<a href="https://codesandbox.io/u/larslouch">
+  <img align="right" alt="Lars Louch | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/larslouch/larslouch/master/assets/codesandbox.svg" />
 </a>
 <a href="https://codesandbox.io/u/larslouch">
   <img align="right" alt="Lars Louch | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/larslouch/larslouch/master/assets/codesandbox.svg" />
