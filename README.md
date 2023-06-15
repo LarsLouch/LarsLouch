@@ -17,55 +17,6 @@ UDEMY
                 ✴ Game Plataforma Profundo Com Unity 3d + C# - 1h <br>
                 ✴ Masterclasse unity roguelike 2D Mobile + Desktop, Rpg de ação 2D Mobile + Desktop - 27h <br>
                 ✴ RPG de Ação 2D Desktop + Mobile com Unity + C# - 41 <br>
-  
-
--   ESCRITOR
-
-<b>👑 Livros Escritos e Locais Disponíveis</b><br><br>      
-      
-
-            🔲Amazon
-              🌑NASCENTE DE ESTRELAS: O Marco do Fim🌒
-              💠https://shre.ink/nascentedeestrelasamazon💠
-              🌒Quando a vida se torna divertida🌓
-              💠https://shre.ink/quandoavidaamazon💠
-              🌓Guerreiro Celestial: Guerra Entre Reinos🌔
-              💠https://shre.ink/guerreirocelesltialamazon💠
-
-            🔲Livraria Publica
-
-              🌔Guerreiro Celestial: Guerra Entre Reinos🌕
-              💠https://shre.ink/oguerreironalivraria💠
-              🌕NASCENTE DE ESTRELAS: O Marco do Fim🌖
-              💠https://shre.ink/estrelasnalivraria💠
-
-            🔲Saraiva
-
-              🌖Guerreiro Celestial: Guerra Entre Reinos🌗
-              💠https://shre.ink/guerreironasaraiva💠
-
-            🔲TopLeituras
-
-              🌗Guerreiro Celestial: Guerra Entre Reinos🌘
-              💠https://shre.ink/guerreironotopleituras💠
-              
-            🔲99ebooks
-
-              🌘Guerreiro Celestial: Guerra Entre Reinos🌒
-              💠https://shre.ink/guerreironoebooks💠
-              
-            🔲GoodReads
-
-              🌒Guerreiro Celestial: Guerra Entre Reinos🌓
-              💠https://shre.ink/guerreironogoodreads💠
-
-            🔲WikiLivros
-
-              🌓Guerreiro Celestial: Guerra Entre Reinos🌘
-              💠https://shre.ink/guerreironowikilivros💠
-
-              ✨Escritor a mais de 7 anos por amor e paixão a escrita
-              ✨Livros publicados na amazon e no watpad desde a infancia
 
 - 💬 Ask me about anything [here](https://github.com/larslouch/larslouch/issues)
 
