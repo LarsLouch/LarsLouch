@@ -16,7 +16,7 @@ UDEMY
                 ✴ Construa Um Game Plataforma Unity 3D - 2h <br>
                 ✴ Game Plataforma Profundo Com Unity 3d + C# - 1h <br>
                 ✴ Masterclasse unity roguelike 2D Mobile + Desktop, Rpg de ação 2D Mobile + Desktop - 27h <br>
-                ✴ RPG de Ação 2D Desktop + Mobile com Unity + C# - 41 <br>
+                ✴ RPG de Ação 2D Desktop + Mobile com Unity + C# - 41h <br>
 
 - 💬 Ask me about anything [here](https://github.com/larslouch/larslouch/issues)
 
