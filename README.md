@@ -8,15 +8,17 @@
 UDEMY
 
 <b>👑 Cursos Produzidos </b><br><br>
-                ✴ Crie MMORGS definitivo unity 2023 - 86h<br>
-                ✴ Construção de cenários com unity 3D + Iluminação Profissional - 1h <br>
-                ✴ Crie games Unity 3D + 2D + C# - 6h <br>
-                ✴ Iluminação Profissional Unity 3D 2022 - 1h <br>
-                ✴ Godot 2023: Contrua games do absoluto zero com godot - 8h <br>
-                ✴ Construa Um Game Plataforma Unity 3D - 2h <br>
-                ✴ Game Plataforma Profundo Com Unity 3d + C# - 1h <br>
-                ✴ Masterclasse unity roguelike 2D Mobile + Desktop, Rpg de ação 2D Mobile + Desktop - 27h <br>
-                ✴ RPG de Ação 2D Desktop + Mobile com Unity + C# - 41h <br>
+               </a><a href="https://www.udemy.com/course/crie-mmorpgs-definitivo-unity/">✴ Crie MMORGS definitivo unity 2023 - 86h</a></a><br>
+              </a><a href="https://www.udemy.com/course/construcao-de-cenarios-com-unity-3d-iluminacao/">✴ Construção de cenários com unity 3D + Iluminação Profissional - 1h </a></a><br>
+              </a><a href="https://www.udemy.com/course/10-cursos-10-jogos-10-dias-unity-3d-2d-c/">✴ Crie games Unity 3D + 2D + C# - 6h </a></a><br>
+              </a><a href="https://www.udemy.com/course/iluminacao-profissional-unity-3d-2022/">✴ Iluminação Profissional Unity 3D 2022 - 1h </a></a><br>
+              </a><a href="https://www.udemy.com/course/godot-2022-construa-games-do-zero-absoluto-com-godot-351/">✴ Godot 2023: Contrua games do absoluto zero com godot - 8h </a></a><br>
+              </a><a href="https://www.udemy.com/course/construa-um-game-plataforma-unity-3d/">✴ Construa Um Game Plataforma Unity 3D - 2h </a></a><br>
+              </a><a href="https://www.udemy.com/course/game-plataforma-profundo-com-unity-3d-2022-c/">✴ Game Plataforma Profundo Com Unity 3d + C# - 1h </a></a><br>
+              </a><a href="https://www.udemy.com/course/masterclasse-roguelike-2d-unity-c-2022/">✴ Masterclasse unity roguelike 2D Mobile + Desktop, Rpg de ação 2D Mobile + Desktop - 27h </a></a><br>
+              </a><a href="https://www.udemy.com/course/rpg-de-acao-2d-artistico-definitivo-unity2d-c/">✴ RPG de Ação 2D Desktop + Mobile com Unity + C# - 41h </a></a><br>
+
+                       
 
 - 💬 Ask me about anything [here](https://github.com/larslouch/larslouch/issues)
 
