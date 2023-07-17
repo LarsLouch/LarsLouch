@@ -43,49 +43,6 @@ UDEMY
 | <a href="https://github.com/larslouch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=larslouch&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="larslouch github stats" /></a> | <a href="https://github.com/larslouch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larslouch&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
- 
-<a href="https://github.com/larslouch/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larslouch&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/larslouch/larslouch.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larslouch&repo=larslouch.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-
-<a href="https://codesandbox.io/u/larslouch">
-  <img align="right" alt="Lars Louch | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/larslouch/larslouch/master/assets/codesandbox.svg" />
-</a>
-<a href="https://codesandbox.io/u/larslouch">
-  <img align="right" alt="Lars Louch | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/larslouch/larslouch/master/assets/codesandbox.svg" />
-</a>
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="[![GitHub Streak](https://streak-stats.demolab.com?user=rafaelneukirchen&theme=dark)](https://git.io/streak-stats)"/>
-  <br></br>
-  
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelneukirchen&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelneukirchen)](https://github.com/anuraghazra/github-readme-stats)"/>
-  
-  </td>
-</tr>
-</table>
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
