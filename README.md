@@ -13,7 +13,7 @@
        alt="snake" /></a>
 </div>
 
-**About me**
+**Sobre**
 
 Lars ou ainda João Lázaro, é um ex servidor público do IBGE. Programador e desenvolvedor com mais de 4 anos de experiencia. Escritor com 5 obras já produzidas. Designer, influenciador graduado em ciências da computação pela Universidade Federal da Paraíba, Pos-Graduando em Docência. Experiências como professor em empresas privadas. Experiência como professor de cursos da udemy, com quase 200h em video aulas gravadas, com conteúdos de linguagens de programação e desenvolvimento de games. Influenciador com quase 100k de seguidores no Instagram e 9k no Linkedin.
 
