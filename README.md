@@ -40,7 +40,7 @@ Lars ou ainda João Lázaro, é um ex servidor público do IBGE. Programador e d
 
 <!--- trophy (start) -->
 
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+   
 </p>        
 <!--- stats (end) -->
 
